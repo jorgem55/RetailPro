@@ -1,2 +1,1 @@
-# RetailPro
-# Proyecto DataAnalytics Coderhouse 
+## Proyecto DataAnalytics Coderhouse
